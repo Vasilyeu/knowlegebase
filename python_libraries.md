@@ -9,3 +9,6 @@
 ## MLOps. 
 - Great Expectation - data validation - https://greatexpectations.io/
 - 
+
+## Clean Code. 
+- Pinject - Dependency injection - https://github.com/google/pinject
